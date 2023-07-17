@@ -1,0 +1,10 @@
+.welcome {
+  margin: 9%;
+}
+
+.passion {
+  margin-top: 3px;
+  color: rgb(187, 26, 187);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-shadow: 0 0 10px rgba(167, 19, 180, 0.664);
+}

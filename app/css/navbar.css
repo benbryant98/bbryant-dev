@@ -1,0 +1,39 @@
+.nav__item {
+  font-size: 30px;
+}
+
+.nav__item:hover {
+  background: linear-gradient(to right, #d00070, #8c4799, #0032a0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: rgba(188, 238, 247, 0.4) 0 0 8px;
+}
+
+#navbar {
+  background: linear-gradient(
+    to bottom,
+    rgb(0, 0, 0),
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0)
+  );
+  transition: 0.4s; /* Adds a transition effect when the padding is decreased */
+  width: 100%;
+  height: 80px;
+  top: 0; /* At the top */
+  z-index: 1;
+}
+
+#links {
+  top: 2%;
+}
+
+#logo {
+  display: flex;
+  width: fit-content;
+}
+
+.brand img {
+  display: flex;
+  height: 100px;
+}
