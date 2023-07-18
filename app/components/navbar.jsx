@@ -22,7 +22,7 @@ export default function Navbar(props) {
         id="links"
       >
         <li>
-          <AnchorLink className="nav__item" href="#about">
+          <AnchorLink className="nav__item" href='#about' >
             About
           </AnchorLink>
         </li>

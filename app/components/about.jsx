@@ -59,17 +59,17 @@ export default function About() {
             <p className="ml-9">
               <span className="text-green-400">position:</span>{" "}
               <span className="text-yellow-700">
-                'Quality Assurance Technician'
+                'Quality Assurance Engineer'
               </span>
               ,{" "}
             </p>
             <p className="ml-9">
               <span className="text-green-400">company:</span>{" "}
-              <span className="text-yellow-700">'TECHEAD'</span>,{" "}
+              <span className="text-yellow-700">'Technology Integration Group'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-green-400">duration:</span>{" "}
-              <span className="text-yellow-700">'2020-2022'</span>,{" "}
+              <span className="text-yellow-700">'Apr 2021 to Dec 2022'</span>,{" "}
             </p>
           </div>
           <p className="ml-6"> &#125;,</p>
@@ -85,7 +85,7 @@ export default function About() {
             </p>
             <p className="ml-9">
               <span className="text-green-400">certificate:</span>{" "}
-              <span className="text-yellow-700">'FullStack Development'</span>,{" "}
+              <span className="text-yellow-700">'Full-Stack Development'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-green-400">graduationDate:</span>{" "}
@@ -110,49 +110,52 @@ export default function About() {
 
           <div className={`${toggle}`}>
             <p className="ml-9">
-              <span className="text-yellow-700">'HTML/CSS/JS'</span>,{" "}
+              <span className="text-yellow-700">'HTML / CSS / JS'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'Node.js'</span>,{" "}
+              <span className="text-yellow-700">'Node'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'Bootstrap/Tailwind'</span>,{" "}
+              <span className="text-yellow-700">'Bootstrap / Tailwind'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-yellow-700">'Webpack'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'npm/yarn'</span>,{" "}
+              <span className="text-yellow-700">'npm / yarn'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'PWA'</span>,{" "}
-            </p>
-            <p className="ml-9">
-              <span className="text-yellow-700">'GIT'</span>,{" "}
+              <span className="text-yellow-700">'Git'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-yellow-700">'Firebase'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'RWD/W3C/ARIA/WCAG'</span>,{" "}
+              <span className="text-yellow-700">'RWD / W3C / ARIA / WCAG'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'MySQL/MongoDB'</span>,{" "}
+              <span className="text-yellow-700">'MySQL / MongoDB'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'Photoshop/GIMP'</span>,{" "}
+              <span className="text-yellow-700">'Photoshop / GIMP'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'UX/UI'</span>,{" "}
+              <span className="text-yellow-700">'UX / UI'</span>,{" "}
             </p>
             <p className="ml-9">
-              <span className="text-yellow-700">'Unity'</span>,{" "}
+              <span className="text-yellow-700">'Next / React'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-yellow-700">'TypeScript'</span>,{" "}
             </p>
             <p className="ml-9">
               <span className="text-yellow-700">'Jest'</span>,{" "}
+            </p>
+            <p className="ml-9">
+              <span className="text-yellow-700">'Apollo / GraphQL'</span>,{" "}
+            </p>
+            <p className="ml-9">
+              <span className="text-yellow-700">'Python'</span>,{" "}
             </p>
             <p className="m-3"> &#93;,</p>
           </div>
