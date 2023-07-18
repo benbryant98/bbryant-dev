@@ -14,7 +14,7 @@ This project will continue to be updated as my projects, aspirations, and style 
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## Instructions
 
 Simply go to https://bbryant.dev
 
